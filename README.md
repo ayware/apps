@@ -1,5 +1,5 @@
 
--- Google Play Store Geliştirme Yapılmış Uygulamalar --
+-- Google Play Store Geliştirme Yapılmış Android Uygulamalar --
 
 https://play.google.com/store/apps/details?id=com.sametaylak.derskazanimlari
 
